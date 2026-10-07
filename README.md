@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm S. Abhinay 👋
 
-<!--
-**sabhinay0112/sabhinay0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Electronics Engineering Student
 
-Here are some ideas to get you started:
+### 🔧 Interests
+- Power Systems
+- Electrical Protection
+- IoT & Embedded Systems
+- Automation
+- Power Electronics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- Python
+- MATLAB
+- ESP32
+- Arduino
+- Blynk
+- Revit
+- Electrical Systems & Troubleshooting
+
+### 🚀 Projects
+- PowerProtect – Power System Fault Analysis & Protection
+- IoT Home Automation & Power Monitoring
+- MATLAB Power System Analysis
+
+### 📚 Currently Working On
+PowerProtect – A standalone power-system fault analysis and protection simulation platform.
+
+---
+
+📫 Open to internships, projects and learning opportunities.
